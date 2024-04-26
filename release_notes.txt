@@ -1,0 +1,11 @@
+0.0.0   12/23/2023  Original
+0.0.1   01/30/2024  Minor changes - eliminated extra configuration
+0.0.2   02/01/2024  Control queue implemented
+0.0.4   03/08/2024  Modbus timeout in milliseconds
+                    vars.json placed in a different folder (appconfig)
+0.0.5   03/12/2024  Added example pdef file that corresponds with the vars.json
+                    Added array processing from Modbus
+0.0.6   03/24/2024  16, 32 and 64 bit integers (signed and unsigned) are supported
+0.1.0   03/28/2024  SDK converted to python package
+
+

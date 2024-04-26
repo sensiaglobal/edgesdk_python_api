@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: hcc2sdk
+Version: 0.1.0
+Summary: SDK API for HCC2
+Home-page: https/bitbucket.com/sensiaglobal/hcc2-sdk-python-api.git
+Author: Mario Torre
+Author-email: mario.torre@sensiaglobal.com
+License: SENSIA
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+README
+
+hcc2sdk is the api package to build/deploy to interface with  HCC2 through modbus
+
+to build a new version of this package, run:
+
+./build.sh   <---- this will build the new package distribution files
+
+pip install dist/hcc2sdk-0.1.0-py3-none-any.whl --force-reinstall      <------- This install the package for the current user.
+
+
+
